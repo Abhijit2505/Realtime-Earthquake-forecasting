@@ -9,6 +9,8 @@ python-dateutil
 pytz
 scikit-learn
 scipy
+numpy
+pandas
 six
 SQLAlchemy
 threadpoolctl
